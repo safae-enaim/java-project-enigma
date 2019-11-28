@@ -1,0 +1,11 @@
+org\sid\web\RegisterForm.class
+org\sid\dao\UserRepository.class
+org\sid\entities\AppUser.class
+org\sid\sec\SecurityConfig.class
+org\sid\service\AccountServiceImpl.class
+org\sid\sec\SecurityConstants.class
+org\sid\service\AccountService.class
+org\sid\JwtSpringSecApplication.class
+org\sid\sec\JWTAuthenticationFilter.class
+org\sid\service\UserDetailsServiceImpl.class
+org\sid\web\AccountRestController.class
